@@ -83,6 +83,7 @@ if (hongkongElement) {
       "A"
     )}</small></div>
     </div>
+    <a href= "index.html"> Return to all cities</a>
     `;
   }
   
